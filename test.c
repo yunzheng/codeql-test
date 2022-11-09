@@ -13,5 +13,5 @@ int codeql_test(char *name)
 }
 
 int main(){
-	printf("hello world\n");
+	printf("hello world2\n");
 }
